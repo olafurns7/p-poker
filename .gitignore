@@ -54,3 +54,5 @@ storybook-static/
 .sentryclirc
 # turborepo
 .turbo
+
+.env.*
